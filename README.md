@@ -35,3 +35,6 @@ HierBiLSTM_stylo.ipynb
 ## Final File
 Run the following script to generate all the csv files and generate results for SVM,KNN and Random Forest Classifier.
 * Enron_main.ipynb
+
+To get the results for Hierarchical BiLSTM with stylometric features, run the following ipynb file.
+* HierBiLSTM_stylo.ipynb
